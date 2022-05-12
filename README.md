@@ -1,2 +1,2 @@
 # delivery-app
-##Projeto desenvolvido na Trybe
+## Projeto desenvolvido na Trybe
